@@ -6,7 +6,7 @@
                 <item name="MySQL-9" xsi:type="string">^9\.</item>
                 <item name="MySQL-8" xsi:type="string">^8\.</item>
                 <item name="MySQL-5.7" xsi:type="string">^5\.7\.</item>
-                <item name="MariaDB" xsi:type="string">^10\.</item>
+                <item name="MariaDB" xsi:type="string">^(10|11|12|13)\.</item>
             </argument>
         </arguments>
     </type>

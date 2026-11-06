@@ -10,7 +10,7 @@
 
 
 ## Main Functionalities
-Allow Mariadb 10.11 and Mysql 9
+Allow MariaDB 10, 11, 12 and 13 and MySQL 9.
 
 ## Installation
 \* = in production please use the `--keep-generated` option
